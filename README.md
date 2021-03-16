@@ -22,7 +22,7 @@ A web-based overlay for Beat Saber
 Options are added to the URL query as such:
 
 ```
-http://reselim.github.io/overlay/?modifiers=top
+https://bsoverlay.socuul.dev?modifiers=top
 ```
 
 ### `ip` and `port`
